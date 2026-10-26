@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://comp2-m02-assignment",
+            "request": "launch",
+            "url": "http://comp2-m02-assignment"
+        }
+    ]
+}
